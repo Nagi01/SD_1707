@@ -1,9 +1,9 @@
-# サンプル（プロダクト名）
+# YANO
 
 [![Product Name](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/channel/UC4PtjOfZTbVp9DwtJv82Lzg)
 
 ## 製品概要
-### X Tech（X → 今回皆さんが選定した好きな言葉に書き換えてください）
+### Photogenic Tech
 
 ### 背景（製品開発のきっかけ、課題等）
 ここに
@@ -34,23 +34,21 @@
 #### API・データ
 今回スポンサーから提供されたAPI、製品などの外部技術があれば記述をして下さい。
 
-* 
-* 
-* 
+*
+*
+*
 
 #### フレームワーク・ライブラリ・モジュール
-* 
-* 
+*
+*
 
 #### デバイス
-* 
-* 
+* Raspberry Pi zero w
+* Raspberry Pi カメラモジュール
+* サーボモーター
 
 ### 研究内容・事前開発プロダクト（任意）
-ご自身やチームの研究内容や、事前に持ち込みをしたプロダクトがある場合は、こちらに実績なども含め記載をして下さい。
-
-* 
-* 
+*
 
 
 ### 独自開発技術（Hack Dayで開発したもの）
